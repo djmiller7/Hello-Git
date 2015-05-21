@@ -5,7 +5,7 @@ require 'Hello-Git/version'
 
 Gem::Specification.new do |spec|
   spec.name        = 'hola_world'
-  spec.version     = Hello-Git::VERSION
+  spec.version     = HelloGit::VERSION
   spec.authors     = ["David J Miller"]
   spec.email       = 'millerdj@grangeinsurance.com'
   spec.summary     = "Hola!"
